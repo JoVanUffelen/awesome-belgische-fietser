@@ -9,10 +9,11 @@ Currently focused on Functional Cyclists in Antwerp
 - [Fietsers en de wegcode (PDF)](http://www.lokalepolitie.be/5388/downloads/file/brochures%2Fverkeer/Fietsers_en_de_wegcode_BIVV.pdf)
 
 
-## mobiliteit
+## Mobiliteit
 - [Blunderboek Antwerpse Mobiliteit](http://www.blunderboek.be/)
 - [fietsbarometer](http://fietsbarometer.provincieantwerpen.be/geoloketten/?viewer=fietsbarometer)
 - [Manyways](https://www.manyways.be/antwerp)
+- [velo bikes](https://www.velo-antwerpen.be/)
 
 
 ## Organisaties
