@@ -14,6 +14,7 @@ Currently focused on Functional Cyclists in Antwerp
 - [fietsbarometer](http://fietsbarometer.provincieantwerpen.be/geoloketten/?viewer=fietsbarometer)
 - [Manyways](https://www.manyways.be/antwerp)
 - [velo bikes](https://www.velo-antwerpen.be/)
+- [stad Antwerpen open data rond Mobiliteit](https://opendata.antwerpen.be/datasets?tid%5B0%5D=51)
 
 
 ## Organisaties
